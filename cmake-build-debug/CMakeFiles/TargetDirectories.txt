@@ -1,0 +1,3 @@
+D:/CodeAPP/Clion/master/cmake-build-debug/CMakeFiles/master.dir
+D:/CodeAPP/Clion/master/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeAPP/Clion/master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
